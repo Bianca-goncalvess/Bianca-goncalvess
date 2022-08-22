@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./[Your header image])
 
 
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png">

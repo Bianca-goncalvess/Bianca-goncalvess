@@ -1,11 +1,11 @@
-<img align="right" height="160" src="https://pt.bloggif.com/output/6/1/61de8d7199115c266a57bbcbd8fd7589.gif?1661134943"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&username=Bianca-goncalvess" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=true&username=Bianca-goncalvess" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="right" height="160" src="https://pt.bloggif.com/output/6/1/61de8d7199115c266a57bbcbd8fd7589.gif?1661134943"  />
 
 ###
 

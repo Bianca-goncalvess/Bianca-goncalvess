@@ -52,12 +52,12 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/Bianca-goncalvess/Bianca-goncalvess/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Bianca-goncalvess/count.svg?"  />
 </div>
+
+###
+
+<img href="https://raw.githubusercontent.com/Bianca-goncalvess/Bianca-goncalvess/blob/output/snake.svg" alt="Snake animation" />
 
 ###

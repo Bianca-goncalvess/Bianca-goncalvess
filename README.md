@@ -52,4 +52,6 @@
   <img src="https://profile-counter.glitch.me/Bianca-goncalvess/count.svg?"  />
 </div>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Bianca-goncalvess&bg_color=0D1117&color=708090&line=D94100&hide_border=true&point=7C14FA&area=true&hide_title=true&custom_title=)](https://github.com/bianca-goncalvess/github-readme-activity-graph)
+
 ###
